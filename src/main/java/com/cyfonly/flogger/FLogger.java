@@ -9,6 +9,8 @@ import com.cyfonly.flogger.utils.TimeUtil;
  * 日志工具类
  * @author yunfeng.cheng
  * @version 2015/10/31
+ * 
+ * 
  */
 public class FLogger {
 	
